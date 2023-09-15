@@ -1,4 +1,4 @@
-# Windows-NewMenu-Editor
+# Windows NewMenu Editor
 
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/Der-Floh/Windows-NewMenu-Editor/blob/master/README.md)
 [![de](https://img.shields.io/badge/lang-de-green.svg)](https://github.com/Der-Floh/Windows-NewMenu-Editor/blob/master/README.de.md)
