@@ -1,5 +1,8 @@
 # Windows-NewMenu-Editor
 
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/Der-Floh/Windows-NewMenu-Editor/blob/master/README.md)
+[![de](https://img.shields.io/badge/lang-de-green.svg)](https://github.com/Der-Floh/Windows-NewMenu-Editor/blob/master/README.de.md)
+
 A Program that lets you quickly Add and Remove File Types to the Windows "New File" Menu
 
 Current Version can be found under [Releases](https://github.com/Der-Floh/Windows-NewMenu-Editor/releases)
@@ -11,9 +14,11 @@ Current Version can be found under [Releases](https://github.com/Der-Floh/Window
 - Create a Backup of the current "New Menu" and Restore it later
 
 ## Can I do this Manually?
-Yes. By following this Tutorial using the Regestry editor: https://www.techrepublic.com/article/how-to-add-a-new-file-type-to-the-microsoft-windows-10-context-menu/
+Yes. By following this Tutorial using the Regestry editor: [How to add a new file type to the Microsoft Windows 10 Context Menu](https://www.techrepublic.com/article/how-to-add-a-new-file-type-to-the-microsoft-windows-10-context-menu/)
 
-Or by using a .reg file as described here: https://superuser.com/a/34706/1843052
+Or by using a .reg file as described here: [How can I add an item to the 'new' context menu?](https://superuser.com/a/34706/1843052)
+
+### If you found an error or want to submit an idea feel free to create an [Issue](https://github.com/Der-Floh/Windows-NewMenu-Editor/issues/new) or view all [Issues](https://github.com/Der-Floh/Windows-NewMenu-Editor/issues)
 
 <br/>
 
